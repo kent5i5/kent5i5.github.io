@@ -1,0 +1,14 @@
+<!-- ---
+layout: page
+--- -->
+
+<nav>
+    {% for item in site.data.education %}
+    <div href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+      <span>{{ item.name }}</span>
+      <span>{{ item.description }}</span>
+      <a href="{{ item.link }}">{{ item.link }}</a>
+
+    </div>
+  {% endfor %}
+</nav>

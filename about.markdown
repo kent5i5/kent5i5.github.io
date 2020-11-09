@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is my github profile website based on Jekyll theme. You can find out more info about me 
+This is my github profile website based on Jekyll theme. 
+I like playing video game and programming and I enjoys staying at home. :)
 
 You can find repository here
 [kent5i5](https://github.com/kent5i5) 
