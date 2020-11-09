@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Writing a simple Amazon Cloudformation script"
-date:   2020-11-08 12:05:24 -0800
+date:   2020-11-09 12:05:24 -0800
 categories: spring-boot JAVA Restful-API
 ---
 
