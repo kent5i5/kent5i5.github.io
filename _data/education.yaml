@@ -1,0 +1,9 @@
+- name: San francisco State university
+  degree: Bachelor’s Degree in Computer Science
+  description: Focus on Cloud technology and Web Application development
+
+- name: Udacity Nanodegree Cloud Computing
+  description: Cloud Foundations, Deploy Infrastructure as Code, Build CI/CD Pipelines, Monitoring & Logging, Microservices at Scale using Kubernetes
+
+- name: AWS Certified - AWS Developer Associate 
+  link: https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2018-11-13&ci=AWS00647480
