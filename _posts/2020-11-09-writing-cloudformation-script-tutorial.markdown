@@ -2,6 +2,7 @@
 layout: post
 title:  "Writing a simple Amazon Cloudformation script"
 date:   2020-11-09 12:05:24 -0800
+author: yinkin
 categories: spring-boot JAVA Restful-API
 ---
 
