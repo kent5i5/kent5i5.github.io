@@ -3,8 +3,6 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-
-
 ## Education
 
 ###### San francisco State university
@@ -18,7 +16,7 @@ Cloud Foundations, Deploy Infrastructure as Code, Build CI/CD Pipelines, Monitor
 
 ###### AWS Certified
 I passed the test for Amazon Cloud Development which proves that I have enough knowledge to administration and build Application integrated with Amazon Cloud
-[AWS Developer Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2018-11-13&ci=AWS00647480)
+![AWS Developer Associate](/assets/img/AWS-Certified-Developer-small.png)
 
 ###### Udacity Certified
 In this course, I develop skills including jenkins pipeline, docker images, kubernetes development process. I also develop skill to create cloud formation script and lamda program for Amazon cloud automation.

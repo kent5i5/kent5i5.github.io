@@ -21,7 +21,10 @@
 title: Kent5i5 Github Profile
 email: sanfranciscoken5@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:" 
-  This is my github web page. 
+  This is my github blog page>
+  My other blogs: 
+  [Gatsby blog] https://powerful-ravine-99502.herokuapp.com/
+  [Angularjs blog] http://yinkin.ziruoinc.com/
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yingkitng
@@ -36,6 +39,7 @@ plugins:
 header_pages:
   - about.markdown
   - resume.markdown
+  - blogs.markdown
 
 #show full content of the post
 #show_excerpts: true
