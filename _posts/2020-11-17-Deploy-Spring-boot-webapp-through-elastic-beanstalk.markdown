@@ -12,12 +12,12 @@ categories: spring-boot JAVA Restful-API
 
 * It is also set to autoscaling. For example, we currently have 1. If we stop this instance, it will regenerate another one to replace it. If we have two Ec2 instance, it will ensure a highly available website.
 
-![Steop1](/assets/img/create_env1.png/)
+![Step1](/assets/img/create_env1.png)
 
-![Steop2](/assets/img/create_env2.png/)
+![Step2](/assets/img/create_env2.png)
 
-![Steop3](/assets/img/create_env3.png/)
-![Steop3](/assets/img/create_env4.png/)
+![Step3](/assets/img/create_env3.png)
+![Step3](/assets/img/create_env4.png)
 
 ### Other options: 
 * if we have a dockerfile, the docker managed platform will create docker image and deploy the application with it. 
