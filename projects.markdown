@@ -8,3 +8,5 @@ permalink: /projects/
 [Fire-base Iphone App](https://github.com/kent5i5/yinkin-iphone)
 
 [Parse base android app](https://github.com/kent5i5/yinElderService)
+
+[Udacity Project: Cloudformation script for highly available amazon cloud web infrastructure](https://github.com/kent5i5/highly-available-webapp)

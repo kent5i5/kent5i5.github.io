@@ -13,6 +13,6 @@ You can find repository here
 My angularjs website:
 [yinkin.ziruoinc.com](http://yinkin.ziruoinc.com/)
 
-[My Gatsby Blog](https://powerful-ravine-99502.herokuapp.com/)
+[My Gatsby Blog](https://yinkinblog.herokuapp.com/)
 
 [my-github-group]: https://github.com/Mobile-Kickstart-Squad-team
