@@ -35,9 +35,10 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - about.markdown
+  - mobile.markdown
   - resume.markdown
   - projects.markdown
+  - about.markdown
 
 #show full content of the post
 #show_excerpts: true

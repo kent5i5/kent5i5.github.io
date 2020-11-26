@@ -3,7 +3,9 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-## My other Blogs
+#### My projects
+
+[voluteer work - working with team member to implement new features on a React-native project](https://github.com/jmejiamu/sflivingwages-mobil-app) 
 
 [Fire-base Iphone App](https://github.com/kent5i5/yinkin-iphone)
 
