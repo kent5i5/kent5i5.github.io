@@ -35,6 +35,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - data.markdown
   - mobile.markdown
   - resume.markdown
   - projects.markdown
