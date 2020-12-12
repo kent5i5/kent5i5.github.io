@@ -3,7 +3,7 @@ layout: post
 title:  "Create Postgre database with Jupyter notebook remotely"
 date:   2020-12-03 9:46:00 -0800
 author: yinkin
-categories: spring-boot JAVA Restful-API
+categories: postgre jupyter notebook data science
 ---
 
 # Install Jupyter notebook 
@@ -71,5 +71,3 @@ cur.close()
 conn.close()
 
 {% endhighlight %}
-
-
