@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Enginner ETL - Copy big data from s3 to redshift database"
+title:  "Data Enginner ETL - Copy big data from s3 to Redshift database"
 date:   2020-12-03 9:46:00 -0800
 author: yinkin
 categories: 
@@ -8,6 +8,7 @@ categories:
 ##### First I create redshit clusters with local jupyter notebook with folloing steps
 
 1. Create an iAM role with aws redshift database full and S3 bucket access
+
         dwhRole = iam.create_role(
             Path='/',
             RoleName=DWH_IAM_ROLE_NAME,
@@ -20,7 +21,9 @@ categories:
         iam.attach_role_policy(RoleName=DWH_IAM_ROLE_NAME,
                        PolicyArn="arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess"
                       )['ResponseMetadata']['HTTPStatusCode']
+                      
 2. Create an Redshift with following python function 
+
         redshift.create_cluster(        
             #HW
             ClusterType=DWH_CLUSTER_TYPE,
