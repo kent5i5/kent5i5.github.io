@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Apply AWS SSL certificate for s3 static hosting website"
-date:   2020-12-010 9:46:00 -0800
+date:   2020-12-10 9:46:00 -0800
 author: yinkin
 categories: s3 aws ssl cloudfront
 ---
