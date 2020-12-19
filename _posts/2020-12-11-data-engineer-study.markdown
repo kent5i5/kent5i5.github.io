@@ -9,6 +9,11 @@ categories:
 
 1. Create an iAM role with aws redshift database full and S3 bucket access
 
+        iam = boto3.client('iam',aws_access_key_id=KEY,
+            aws_secret_access_key=SECRET,
+            region_name='us-west-2'
+        )
+
         dwhRole = iam.create_role(
             Path='/',
             RoleName=DWH_IAM_ROLE_NAME,
@@ -21,10 +26,10 @@ categories:
         iam.attach_role_policy(RoleName=DWH_IAM_ROLE_NAME,
                        PolicyArn="arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess"
                       )['ResponseMetadata']['HTTPStatusCode']
-                      
+
 2. Create an Redshift with following python function 
 
-        redshift.create_cluster(        
+        iam.create_cluster(        
             #HW
             ClusterType=DWH_CLUSTER_TYPE,
             NodeType=DWH_NODE_TYPE,
