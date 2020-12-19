@@ -11,7 +11,7 @@ My github repository
 [kent5i5](https://github.com/kent5i5) 
 
 My other writing in website angularjs:
-[yinkin.ziruoinc.com](http://yinkin.ziruoinc.com/){:target="_blank"}
+[yinkin.ziruoinc.com](https://yinkin.ziruoinc.com/){:target="_blank"}
 
 My web developer blog
 [My Gatsby Blog](https://yinkinblog.herokuapp.com/){:target="_blank"}
