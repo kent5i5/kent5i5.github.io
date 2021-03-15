@@ -10,7 +10,7 @@ Bachelor’s Degree in Computer Science
 Focus on Cloud technology and Web Application development
 
 ###### Udacity Nanodegree Cloud Computing
-Cloud Foundations, Deploy Infrastructure as Code, Build CI/CD Pipelines, Monitoring & Logging, Microservices at Scale using Kubernetes
+
 
 
 
@@ -20,10 +20,12 @@ Cloud Foundations, Deploy Infrastructure as Code, Build CI/CD Pipelines, Monitor
 I passed the test for Amazon Cloud Development which proves that I have enough knowledge to administration and build Application integrated with Amazon Cloud
 ![AWS Developer Associate](/assets/img/AWS-Certified-Developer-small.png)
 
-###### Udacity Certified
-In this course, I develop skills including jenkins pipeline, docker images, kubernetes development process. I also develop skill to create cloud formation script and lamda program for Amazon cloud automation.
+###### Udacity Nanodegree Cloud Computing
+1. Certificate of graduation from a Udacity Nanodegree program
+In this course, I develop skills including docker images, cloud formation script and lamda program for Amazon cloud automation, Cloud Foundations, Build CI/CD Pipelines with jenkins, Monitoring & Logging, Microservices at Scale using Kubernetes
 [Certificate of graduation from a Udacity Nanodegree program](https://graduation.udacity.com/confirm/CKHPCYDZ)
 
+2. Data Engineering Nanodegree
 I have studied Postgre database for relational data modeling and Cassandra database for non-relational data modeling. I have also practiced Apache spark and Redshift for big data processing as well as Apache airflow to create data pipeline.
 [Data Engineering Nanodegree](https://graduation.udacity.com/nd027)
 
